@@ -9,7 +9,7 @@
 | Tools                        |            Done            |
 | ---------------------------- | :------------------------: |
 | Conceitos do React           |     :white_check_mark:     |
-| Configurando estrutura       | :eight_pointed_black_star: |
+| Configurando estrutura       |     :white_check_mark:     |
 | Criando componente raiz      | :eight_pointed_black_star: |
 | Importando CSS               | :eight_pointed_black_star: |
 | Importando imagens           | :eight_pointed_black_star: |

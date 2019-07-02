@@ -10,7 +10,7 @@
 | ---------------------------- | :------------------------: |
 | Conceitos do React           |     :white_check_mark:     |
 | Configurando estrutura       |     :white_check_mark:     |
-| Criando componente raiz      | :eight_pointed_black_star: |
+| Criando componente raiz      |     :white_check_mark:     |
 | Importando CSS               | :eight_pointed_black_star: |
 | Importando imagens           | :eight_pointed_black_star: |
 | Class Components             | :eight_pointed_black_star: |

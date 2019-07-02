@@ -11,7 +11,7 @@
 | Conceitos do React           |     :white_check_mark:     |
 | Configurando estrutura       |     :white_check_mark:     |
 | Criando componente raiz      |     :white_check_mark:     |
-| Importando CSS               | :eight_pointed_black_star: |
+| Importando CSS               |     :white_check_mark:     |
 | Importando imagens           | :eight_pointed_black_star: |
 | Class Components             | :eight_pointed_black_star: |
 | Estado & Imutabilidade       | :eight_pointed_black_star: |

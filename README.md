@@ -6,17 +6,17 @@
 
 # React.js
 
-| Tools                        |            Done            |
-| ---------------------------- | :------------------------: |
-| Conceitos do React           |     :white_check_mark:     |
-| Configurando estrutura       |     :white_check_mark:     |
-| Criando componente raiz      |     :white_check_mark:     |
-| Importando CSS               |     :white_check_mark:     |
-| Importando imagens           |     :white_check_mark:     |
-| Class Components             |     :white_check_mark:     |
-| Estado & Imutabilidade       |     :white_check_mark:     |
-| Removendo itens do estado    |     :white_check_mark:     |
-| Propriedades do React        |     :white_check_mark:     |
-| Default Props & PropTypes    |     :white_check_mark:     |
-| Ciclo de vida do componente  |     :white_check_mark:     |
-| Debugando React com DevTools | :eight_pointed_black_star: |
+| Tools                        |        Done        |
+| ---------------------------- | :----------------: |
+| Conceitos do React           | :white_check_mark: |
+| Configurando estrutura       | :white_check_mark: |
+| Criando componente raiz      | :white_check_mark: |
+| Importando CSS               | :white_check_mark: |
+| Importando imagens           | :white_check_mark: |
+| Class Components             | :white_check_mark: |
+| Estado & Imutabilidade       | :white_check_mark: |
+| Removendo itens do estado    | :white_check_mark: |
+| Propriedades do React        | :white_check_mark: |
+| Default Props & PropTypes    | :white_check_mark: |
+| Ciclo de vida do componente  | :white_check_mark: |
+| Debugando React com DevTools | :white_check_mark: |

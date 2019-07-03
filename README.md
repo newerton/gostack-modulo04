@@ -13,7 +13,7 @@
 | Criando componente raiz      |     :white_check_mark:     |
 | Importando CSS               |     :white_check_mark:     |
 | Importando imagens           |     :white_check_mark:     |
-| Class Components             | :eight_pointed_black_star: |
+| Class Components             |     :white_check_mark:     |
 | Estado & Imutabilidade       | :eight_pointed_black_star: |
 | Removendo itens do estado    | :eight_pointed_black_star: |
 | Propriedades do React        | :eight_pointed_black_star: |

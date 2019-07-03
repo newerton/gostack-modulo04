@@ -14,7 +14,7 @@
 | Importando CSS               |     :white_check_mark:     |
 | Importando imagens           |     :white_check_mark:     |
 | Class Components             |     :white_check_mark:     |
-| Estado & Imutabilidade       | :eight_pointed_black_star: |
+| Estado & Imutabilidade       |     :white_check_mark:     |
 | Removendo itens do estado    | :eight_pointed_black_star: |
 | Propriedades do React        | :eight_pointed_black_star: |
 | Default Props & PropTypes    | :eight_pointed_black_star: |

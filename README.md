@@ -16,7 +16,7 @@
 | Class Components             |     :white_check_mark:     |
 | Estado & Imutabilidade       |     :white_check_mark:     |
 | Removendo itens do estado    |     :white_check_mark:     |
-| Propriedades do React        | :eight_pointed_black_star: |
+| Propriedades do React        |     :white_check_mark:     |
 | Default Props & PropTypes    | :eight_pointed_black_star: |
 | Ciclo de vida do componente  | :eight_pointed_black_star: |
 | Debugando React com DevTools | :eight_pointed_black_star: |

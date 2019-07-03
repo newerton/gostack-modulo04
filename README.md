@@ -18,5 +18,5 @@
 | Removendo itens do estado    |     :white_check_mark:     |
 | Propriedades do React        |     :white_check_mark:     |
 | Default Props & PropTypes    |     :white_check_mark:     |
-| Ciclo de vida do componente  | :eight_pointed_black_star: |
+| Ciclo de vida do componente  |     :white_check_mark:     |
 | Debugando React com DevTools | :eight_pointed_black_star: |

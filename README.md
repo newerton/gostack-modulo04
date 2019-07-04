@@ -1,12 +1,12 @@
-# GoStack - Módulo 04 - Introdução ao React
+# GoStack - Módulo 04 - Introdução ao ReactJS
 
 ![](https://hotmart.s3.amazonaws.com/product_contents/5bfd4a97-5e39-4c99-a871-8d3e969769cc/Course_Image01_580x320.jpg)
 
 ![](https://img.shields.io/github/stars/newerton/gostack-modulo04.svg) ![](https://img.shields.io/github/forks/newerton/gostack-modulo04.svg) ![](https://img.shields.io/github/issues/newerton/gostack-modulo04.svg) ![](https://img.shields.io/github/license/newerton/gostack-modulo04.svg)
 
-# React.js
+# ReactJS
 
-| Tools                        |        Done        |
+| Aulas                        |        Done        |
 | ---------------------------- | :----------------: |
 | Conceitos do React           | :white_check_mark: |
 | Configurando estrutura       | :white_check_mark: |
